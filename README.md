@@ -1,7 +1,7 @@
 ### Hey , I am Aryan 👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on a Text Based Utility App
 - 🌱 I’m currently learning ReactJS
