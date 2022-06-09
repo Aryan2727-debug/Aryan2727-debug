@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a Text Based Utility App
+- 🔭 I’m currently working on a Netflix Clone
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Youtube & LinkedIn
 - 🤔 I’m looking for help with NodeJS & Data Structures
