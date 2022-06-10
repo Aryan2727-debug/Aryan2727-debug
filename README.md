@@ -42,7 +42,7 @@
 <a href = "mailto:shouriearyandev@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
  </p>
 
-    
+ <br><br>   
     
  <a href="https://github.com/Aryan2727-debug">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan2727-debug&show_icons=true&theme=radical" />
