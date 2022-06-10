@@ -44,5 +44,6 @@
 
     
     
- <a href="https://github.com/Aryan2727-debug/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan2727-debug&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/Aryan2727-debug/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan2727-debug&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/Aryan2727-debug">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aryan2727-debug&show_icons=true&theme=radical" />
+ <img   width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan2727-debug&theme=radical&hide_border=true&include_all_commits=true&hide_title=true" />
