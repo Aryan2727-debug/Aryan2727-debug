@@ -41,3 +41,8 @@
 <a href="https://www.facebook.com/aryandev.shourie/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>&nbsp; &nbsp;
 <a href = "mailto:shouriearyandev@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
  </p>
+
+    
+    
+ <a href="https://github.com/Aryan2727-debug/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aryan2727-debug&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aryan's github stats" /></a> | <a href="https://github.com/Aryan2727-debug/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan2727-debug&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
