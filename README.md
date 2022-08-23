@@ -27,6 +27,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60" width="60"/></a> 
   <a href="https://www.mysql.com/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mysql.png" height="60" width="60"/></a> 
   <a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a> 
+    <a href="https://nodejs.org" target="_blank"> <img src="/.github/icons/nodejs.svg" width="40"/> </a>
   
 </p>
 <br>
