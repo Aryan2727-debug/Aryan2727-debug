@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on a Netflix Clone
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on a Real Time App
+- 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on Youtube & LinkedIn
 - 🤔 I’m looking for help with NodeJS & Data Structures
 - 💬 Ask me about C++ and Web Development Stuff
