@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on a Real Time App
+- 🔭 I’m currently working on a React App
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate on Youtube & LinkedIn
 - 🤔 I’m looking for help with NodeJS & Data Structures
