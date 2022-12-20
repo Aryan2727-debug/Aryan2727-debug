@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on a React App
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🔭 I’m currently working on a MongoDB API
+- 🌱 I’m currently learning MongoDB and Mongoose
 - 👯 I’m looking to collaborate on Youtube & LinkedIn
 - 🤔 I’m looking for help with NodeJS & Data Structures
 - 💬 Ask me about C++ and Web Development Stuff
