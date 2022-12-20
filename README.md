@@ -28,6 +28,7 @@
   <a href="https://www.mysql.com/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mysql.png" height="60" width="60"/></a> 
   <a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a> 
     <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" height="60" width="60"/> </a>
+    <a href="https://www.mongodb.com/brand-resources" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mongodb.png" height="60" width="60"/></a>
     <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--GEOe8aLy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qgjn9fi1vff7thgbbecs.jpeg" height="60" width="110"/> </a>
   
 </p>
