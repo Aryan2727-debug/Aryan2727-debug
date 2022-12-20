@@ -9,10 +9,12 @@
 - 🤔 I’m looking for help with NodeJS & Data Structures
 - 💬 Ask me about C++ and Web Development Stuff
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I listen very attentively to Football Interviews and Analytics
+
 
 ## Visit my Website - https://aryan2727-debug.github.io/Aryan-s_Port
 
+<br>
+<br>
 
 ## 🚀 My Tech-Skills:
 
