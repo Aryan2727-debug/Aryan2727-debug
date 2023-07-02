@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 
 
-## Visit my Website - https://aryan-personal-portfolio.netlify.app/
+## Visit my Website - https://aryan-s-portfolio.vercel.app/
 
 <br>
 <br>
