@@ -29,17 +29,31 @@
     <a href="https://reactjs.org/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="60" width="60"/></a> 
     <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="60" width="60"/></a> 
   <a href="https://www.mysql.com/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mysql.png" height="60" width="60"/></a> 
-  <a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a> 
+<!--   <a href="https://www.linux.org/" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/linux.png" height="60" width="60"/></a>  -->
     <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png" height="60" width="60"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" height="60" width="60"/></a>
     <a href="https://www.mongodb.com/brand-resources" target="_blank"> <img align="center"src="https://img.icons8.com/color/48/000000/mongodb.png" height="60" width="60"/></a>
     <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--GEOe8aLy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qgjn9fi1vff7thgbbecs.jpeg" height="60" width="110"/> </a>
-  
+    <br/>
+    <a href="https://mui.com/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" height="60" width="60"/></a>
+    <a href="https://redux.js.org/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="60" width="60"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="60" width="60"/></a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img align="center"src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" height="60" width="60"/></a>
+    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" height="60" width="60"/></a>
+    <a href="https://webpack.js.org/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" height="60" width="60"/></a>
+    <a href="https://dev.to/aryan_shourie" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" height="60" width="60"/></a>
+    <a href="https://babeljs.io/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" height="60" width="60"/></a>
+    <a href="https://medium.com/@shouriearyandev" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" height="60" width="60"/></a>
+    <a href="https://stackoverflow.com/users/22260408/aryandev-shourie" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" height="60" width="60"/></a>
+    <a href="https://www.java.com/en/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="60" width="60"/></a>
+    <a href="https://cloud.google.com/" target="_blank"> <img align="center"src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" height="60" width="60"/></a>
+    <a href="https://www.figma.com/" target="_blank"> <img align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="60" width="60"/></a>
 </p>
 <br>
 
 
 
-📫 How to connect with me :
+📫 Social Media links :
 
 <p align ="center">
 <a href="https://www.linkedin.com/in/aryandev-shourie-175025229/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /> &nbsp; &nbsp;
