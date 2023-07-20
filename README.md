@@ -3,10 +3,9 @@
 
 
 
-- 🔭 I’m currently working on a MongoDB API
-- 🌱 I’m currently learning MongoDB and Mongoose
-- 👯 I’m looking to collaborate on Youtube & LinkedIn
-- 🤔 I’m looking for help with NodeJS & Data Structures
+- 🔭 I’m currently working on an AI-based application
+- 🌱 I’m currently learning NextJS along with Server-Side Rendering and Static-Site Generation
+- 👯 I’m looking to collaborate on LinkedIn
 - 💬 Ask me about C++ and Web Development Stuff
 - 😄 Pronouns: He/Him
 
