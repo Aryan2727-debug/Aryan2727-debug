@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C++ and Web Development Stuff**
 
-- 📫 How to reach me **shouriearyandev@gmail.com**
+- 📫 Reach me at **shouriearyandev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
