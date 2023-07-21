@@ -60,6 +60,10 @@
 <a href="https://www.instagram.com/aryan_shourie/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>&nbsp; &nbsp;
 <a href="https://www.facebook.com/aryandev.shourie/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>&nbsp; &nbsp;
 <a href = "mailto:shouriearyandev@gmail.com"><img align="center" src="https://img.icons8.com/color/50/000000/gmail-new.png" height="50" width="50" /><a>
+<a href = "https://auth.geeksforgeeks.org/user/aryan143jbr/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img align="center" src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" height="50" width="70" /><a>
+<a href = "https://leetcode.com/aryanshourie/"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50" width="65" /><a>
+<a href = "https://www.codechef.com/users/cu_2010991496"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="50" width="65" /><a>
+<a href = "https://www.codechef.com/users/cu_2010991496"><img align="center" src="https://en.vetores.org/wp-content/uploads/npm.png" height="50" width="65" /><a>
  </p>
 
  <br><br>   
