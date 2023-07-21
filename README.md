@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Dev Shourie</h1>
-<h3 align="center">Detail-oriented web developer dedicated to delivering seamless and visually engaging web applications</h3>
+<h3 align="center">A detail-oriented Web Developer dedicated to delivering seamless and visually engaging web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan2727-debug&label=Profile%20views&color=0e75b6&style=flat" alt="aryan2727-debug" /> </p>
 
