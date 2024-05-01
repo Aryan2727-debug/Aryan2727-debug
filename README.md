@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **System Design concepts and CI/CD tools**
 
-- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/aryandev-shourie-175025229/)
+- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/aryandev-shourie-175025229/)**
 
-- 👨‍💻 Visit my Website [https://aryan-s-portfolio.vercel.app/](https://aryan-s-portfolio.vercel.app/)
+- 👨‍💻 Visit my Website **[https://aryan-s-portfolio.vercel.app/](https://aryan-s-portfolio.vercel.app/)**
 
-- 📝 I often write articles on [https://dev.to/aryan_shourie](https://dev.to/aryan_shourie)
-
-- 💬 Ask me about **C++ and Web Development Stuff**
+- 📝 I often write articles on **[https://dev.to/aryan_shourie](https://dev.to/aryan_shourie)**
 
 - 📫 Reach me at **shouriearyandev@gmail.com**
 
