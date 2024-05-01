@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan2727-debug&label=Profile%20views&color=0e75b6&style=flat" alt="aryan2727-debug" /> </p>
 
-- 🔭 I’m currently working on **an AI-based application**
+- 🔭 I’m currently working as a  **Software Engineering Intern at Xperi Inc.**
 
-- 🌱 I’m currently learning **NextJS along with Server-Side Rendering and Static-Site Generation**
+- 🌱 I’m currently learning **System Design concepts and CI/CD tools**
 
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/aryandev-shourie-175025229/)
 
 - 👨‍💻 Visit my Website [https://aryan-s-portfolio.vercel.app/](https://aryan-s-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://dev.to/aryan_shourie](https://dev.to/aryan_shourie)
+- 📝 I often write articles on [https://dev.to/aryan_shourie](https://dev.to/aryan_shourie)
 
 - 💬 Ask me about **C++ and Web Development Stuff**
 
