@@ -44,6 +44,8 @@
     <li><a href="https://dev.to/aryan_shourie/tutorial-on-creating-a-nextjs-application-for-beginners-495f">Tutorial on creating a NextJS Application for beginners</a></li>
     <li><a href="https://dev.to/aryan_shourie/using-mongoose-to-connect-nodejs-and-mongodb-335h">Using Mongoose to connect NodeJS and MongoDB</a></li>
     <li><a href="https://dev.to/aryan_shourie/how-to-publish-a-react-component-without-even-including-react-3kg1">How to publish a React Component without even including React?</a></li>
+    <li><a href="https://dev.to/aryan_shourie/what-is-linting-and-how-to-use-a-linter-tool-524l">What is Linting and how to use a Linter tool</a></li>
+    <li><a href="https://dev.to/aryan_shourie/introduction-to-html-web-components-3ijm">Introduction to HTML Web Components</a></li>
 </ul>
 
 <h3 align="left">My GitHub Stats:</h3>
