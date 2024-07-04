@@ -38,7 +38,7 @@
     <li><a href="https://www.geeksforgeeks.org/react-mui-hidden-layout/">React MUI Hidden Layout</a></li>
     <li><a href="https://www.geeksforgeeks.org/how-to-use-relative-url-in-css-file-and-what-location-is-it-relative-to/">How to use Relative URL in CSS file and what Location is it relative to?</a></li>
     <li><a href="https://www.geeksforgeeks.org/react-mui-theming/">React MUI Theming</a></li>
-    <li><a href="https://www.geeksforgeeks.org/what-is-reselect-and-how-does-it-works-in-reactjs/">What is Reselect and how does it work\ in ReactJS ?</a></li>
+    <li><a href="https://www.geeksforgeeks.org/what-is-reselect-and-how-does-it-works-in-reactjs/">What is Reselect and how does it work in ReactJS ?</a></li>
     <li><a href="https://www.geeksforgeeks.org/how-to-deploy-react-native-application-on-play-store/">How To Deploy React Native Application on Play Store?</a></li>
     <li><a href="https://www.geeksforgeeks.org/how-relay-is-different-from-redux/">How Relay is different from Redux ?</a></li>
     <li><a href="https://dev.to/aryan_shourie/tutorial-on-creating-a-nextjs-application-for-beginners-495f">Tutorial on creating a NextJS Application for beginners</a></li>
