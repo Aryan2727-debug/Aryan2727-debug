@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a  **Associate Software Engineer at Xperi Inc.**
 
-- 🌱 I’m currently learning **System Design concepts and CI/CD tools**
+- 🌱 I’m currently learning **System Design concepts and Open Source Development**
 
 - 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/aryandev-shourie-175025229/)**
 
@@ -46,6 +46,16 @@
     <li><a href="https://dev.to/aryan_shourie/how-to-publish-a-react-component-without-even-including-react-3kg1">How to publish a React Component without even including React?</a></li>
     <li><a href="https://dev.to/aryan_shourie/what-is-linting-and-how-to-use-a-linter-tool-524l">What is Linting and how to use a Linter tool</a></li>
     <li><a href="https://dev.to/aryan_shourie/introduction-to-html-web-components-3ijm">Introduction to HTML Web Components</a></li>
+</ul>
+
+<h3 align="left">Open Source Contributions:</h3>
+<ul>
+    <li>https://github.com/facebook/react-native/pull/47918 : React Native Repository</li>
+    <li>https://github.com/FortAwesome/Font-Awesome/pull/20432 : Font Awesome Repository</li>
+    <li>https://github.com/simple-icons/simple-icons/pull/12168 : Simple Icons Repository</li>
+    <li>https://github.com/qutebrowser/qutebrowser/pull/8390/ : Qute Browser Repository</li>
+    <li>https://github.com/firstcontributions/first-contributions/pull/91328 : First Contributions Repository</li>
+    <li>https://github.com/zero-to-mastery/start-here-guidelines/pull/23034 : Start Here Guidelines Repository</li>
 </ul>
 
 <h3 align="left">My GitHub Stats:</h3>
