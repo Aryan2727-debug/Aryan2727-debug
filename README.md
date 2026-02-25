@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Dev Shourie</h1>
-<h3 align="center">A detail-oriented Web Developer dedicated to delivering seamless and visually engaging web applications</h3>
+<h3 align="center">Frontend Engineer focused on performance-driven Web & Smart TV apps, scalable frontend architecture, and AI-powered user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan2727-debug&label=Profile%20views&color=0e75b6&style=flat" alt="aryan2727-debug" /> </p>
 
 - 🔭 I’m currently working as a  **Associate Software Engineer at Xperi Inc.**
 
-- 🌱 I’m currently learning **System Design concepts and Open Source Development**
+- 🌱 I’m currently learning **System Design concepts and AI Driven Development**
 
 - 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/aryandev-shourie-175025229/)**
 
@@ -19,8 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/aryan_shourie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/aryan_shourie" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aryandev-shourie-175025229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryandev-shourie-175025229/" height="30" width="40" /></a>
+<a href="https://substack.com/@aryanshourie" target="_blank"><img align="center" src="https://cdn.simpleicons.org/substack/FF6719" alt="Substack" height="30" width="40" /></a>
+<a href="https://dev.to/aryan_shourie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/aryan_shourie" height="30" width="40" /></a>
 <a href="https://www.facebook.com/aryandev.shourie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aryandev.shourie/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aryan_shourie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aryan_shourie/" height="30" width="40" /></a>
 <a href="https://medium.com/@shouriearyandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shouriearyandev" height="30" width="40" /></a>
@@ -59,11 +60,3 @@
     <li>https://github.com/firstcontributions/first-contributions/pull/91328 : First Contributions Repository</li>
     <li>https://github.com/zero-to-mastery/start-here-guidelines/pull/23034 : Start Here Guidelines Repository</li>
 </ul>
-
-<h3 align="left">My GitHub Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan2727-debug&show_icons=true&locale=en&layout=compact" alt="aryan2727-debug" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan2727-debug&show_icons=true&locale=en" alt="aryan2727-debug" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan2727-debug&" alt="aryan2727-debug" /></p>
