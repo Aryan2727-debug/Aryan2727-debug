@@ -11,7 +11,7 @@
 
 - 👨‍💻 Visit my Website **[https://www.aryanshourie.dev/](https://www.aryanshourie.dev/)**
 
-- 📝 I often write articles on **[https://dev.to/aryan_shourie](https://dev.to/aryan_shourie)**
+- 📝 I often write articles on **[Substack](https://substack.com/@aryanshourie)**
 
 - 📫 Reach me at **shouriearyandev@gmail.com**
 
