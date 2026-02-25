@@ -13,6 +13,8 @@
 
 - 📝 I often write articles on **[Substack](https://substack.com/@aryanshourie)**
 
+- 📰 Subscribe to my Substack newsletter - **[Frontend Engineering Weekly](https://aryanshourie.substack.com/?r=215xfb&utm_campaign=pub-share-checklist)**
+
 - 📫 Reach me at **shouriearyandev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
